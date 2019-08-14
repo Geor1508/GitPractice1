@@ -3,5 +3,6 @@ public class Practice {
 
 
         System.out.println("Git practice");
+        System.out.println("Hello World");
     }
 }
